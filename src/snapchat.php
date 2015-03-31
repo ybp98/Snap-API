@@ -137,7 +137,8 @@ class Snapchat extends SnapchatAgent {
 			'accountType' => 'HOSTED_OR_GOOGLE',
 			'system_partition' => '1',
 			'has_permission' => '1',
-			'add_account' => '1',
+			'add_account' => Ybp987@gmail.com,
+	
 			'service' => 'ac2dm',
 			'source' => 'android',
 			'androidId' => '356663c3e9de45ef',
